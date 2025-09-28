@@ -113,3 +113,4 @@ if __name__ == "__main__":
     else:
         bot = Bot()
         bot.run(TOKEN)
+         embed.set_footer(text="DEVELOPED BY KITTU•")
